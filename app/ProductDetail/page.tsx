@@ -11,25 +11,25 @@ export default function Home() {
   const latestProducts = [
     {
       id: 1,
-      image: "/ListingsImages/Photo1.png",
+      image: "/ListingsImages/Photo 1.png",
       name: "The Dandy Chair",
       price: "$250",
     },
     {
       id: 2,
-      image: "/ListingsImages/Photo2.png",
+      image: "/ListingsImages/Photo 2.png",
       name: "Rustic Vase Set",
       price: "$150",
     },
     {
       id: 3,
-      image: "/ListingsImages/Photo3.png",
+      image: "/ListingsImages/Photo 3.png",
       name: "The Lucy Lamp",
       price: "$390",
     },
     {
       id: 4,
-      image: "/ListingsImages/Photo4.png",
+      image: "/ListingsImages/Photo 4.png",
       name: "The Silky Vase",
       price: "$125",
     },
